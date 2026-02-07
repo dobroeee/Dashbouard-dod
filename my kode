@@ -1324,8 +1324,7 @@
   var panes = root.querySelectorAll('.sr-tab-pane[data-pane]');
   var titleEl = root.querySelector('[data-sr-title]');
 
-  function setActive(tabId){
-    var liveLink = root.querySelector('[data-sr-live-link]');
+  var liveLink = root.querySelector('[data-sr-live-link]');
   if(liveLink){
     liveLink.addEventListener('click', function(e){
       var href = (liveLink.getAttribute('href') || '').trim();
@@ -1333,7 +1332,9 @@
     });
   }
 
-  tabButtons.forEach(function(btn){
+
+  function setActive(tabId){
+    tabButtons.forEach(function(btn){
       btn.classList.toggle('is-active', btn.getAttribute('data-tab') === tabId);
     });
     panes.forEach(function(p){
