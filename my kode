@@ -1,0 +1,1570 @@
+<div class="sr-dashboard" id="sr-dashboard">
+  <div class="sr-db-shell">
+    <aside class="sr-db-nav" aria-label="Меню дашборда">
+      <div class="sr-db-brand">
+        <div class="sr-db-dot"></div>
+        <div class="sr-db-title">Dashboard</div>
+      </div>
+
+      <div class="sr-db-nav-buttons">
+        <button class="sr-tab-btn is-active" type="button" data-tab="tab1">
+          <span class="sr-tab-ico"><img class="sr-tab-ico-img" src="https://static.tildacdn.com/tild6335-3561-4562-a337-323036396435/House.svg" alt="Обзор"></span>
+          <span class="sr-tab-txt">Обзор</span>
+        </button>
+
+        <button class="sr-tab-btn" type="button" data-tab="tab2">
+          <span class="sr-tab-ico"><img class="sr-tab-ico-img" src="https://static.tildacdn.com/tild6136-3538-4734-b766-333730316364/Calendar.svg" alt="Календарь"></span>
+          <span class="sr-tab-txt">Календарь</span>
+        </button>
+
+        <button class="sr-tab-btn" type="button" data-tab="tab3">
+          <span class="sr-tab-ico"><img class="sr-tab-ico-img" src="https://static.tildacdn.com/tild3966-3561-4166-a636-336231633635/specialization.svg" alt="Специальности и лекторы"></span>
+          <span class="sr-tab-txt">Проекты</span>
+        </button>
+
+        <button class="sr-tab-btn" type="button" data-tab="tab4">
+          <span class="sr-tab-ico"><img class="sr-tab-ico-img" src="https://static.tildacdn.com/tild3765-3864-4438-b934-366464373530/about.svg" alt="О колледже"></span>
+          <span class="sr-tab-txt">Настройки</span>
+        </button>
+      </div>
+      <div class="sr-db-nav-footer">
+        <div class="sr-db-footer-wrap">
+          <div class="sr-db-footer-top">
+            <img class="sr-db-footer-logo" src="https://static.tildacdn.com/tild6565-6230-4738-b064-343931363964/logo.svg" alt="Московский городской открытый колледж">
+            <a class="sr-db-footer-link" href="https://open-college.ru/?utm_medium=dod&utm_content=dashbouard" target="_blank" rel="noopener">open-college.ru</a>
+          </div>
+          <div class="sr-db-footer-meta">
+            <div class="sr-db-footer-copy">© 2016-2026 ЧПОУ «Московский городской открытый колледж»</div>
+            <div class="sr-db-footer-table">
+              <div>Лицензия</div>
+              <div>№Л035-01298-77/00181864</div>
+              <div>от 07 августа 2019 г.</div>
+              <div>Аккредитация</div>
+              <div>№А007-01298-77/01191849</div>
+              <div>от 22 мая 2019 г.</div>
+              <div>ИНН</div>
+              <div>7723433601</div>
+              <div>ОГРН</div>
+              <div>1167700052816</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </aside>
+
+    <main class="sr-db-main">
+      
+
+      <section class="sr-db-content">
+        <div class="sr-tab-pane is-active" data-pane="tab1">
+          
+            <div class="sr-card sr-card-top">
+              <div class="sr-card-body">
+                <div class="sr-db-top">
+
+        <div class="sr-db-top-left">
+          <div class="sr-db-top-label">Кому будет полезно</div>
+          <div class="sr-db-chip">родителям</div>
+          <div class="sr-db-chip">абитуриентам</div>
+          <div class="sr-db-chip">выпускникам 9 и 11 классов</div>
+          <div class="sr-db-chip">неопределившимся куда поступать</div>
+        </div>
+        <div class="sr-db-top-right">
+          <a class="sr-live-btn" href="#" data-sr-live-link>Смотреть онлайн трансляцию</a>
+        </div>
+      
+                </div>
+              </div>
+            </div>
+
+          <div class="sr-grid">
+            <div class="sr-card sr-card-event">
+              <div class="sr-card-head">
+                <div class="sr-card-title">МОСКОВСКИЙ ГОРОДСКОЙ ОТКРЫТЫЙ КОЛЛЕДЖ</div>
+</div>
+
+              <div class="sr-card-body">
+                <div class="sr-event-split">
+                  <div class="sr-event-left">
+                    <div class="sr-event-title-lg">День открытых дверей</div>
+                    <div class="sr-event-badge">Участие бесплатно</div>
+                    <div class="sr-event-text">
+                      День открытых дверей даёт возможность увидеть колледж изнутри, узнать, какие направления обучения доступны, задать вопросы преподавателям и администрации и понять, что подойдёт лучше всего.
+                    </div>
+
+                    <div class="sr-event-date">Суббота, 28 февраля 2026 12:00</div>
+                    <div class="sr-event-addr">
+                      <span class="sr-addr-label">Адрес проведения: </span><span class="sr-addr-text">Волгоградский проспект, дом 32, корпус 5</span>
+                    </div>
+                  </div>
+
+                  <div class="sr-event-right">
+                    <div class="sr-video-wrap" data-sr-video-wrap>
+                      <video class="sr-video-preview" data-sr-video-preview playsinline autoplay muted loop preload="metadata">
+                        <source src="https://dl.dropboxusercontent.com/scl/fi/guqj09mt1d0e3hr4xzsnx/17.02.24.mp4?rlkey=4ovn6xekxu70tka4t5dnv8jsx&st=e7qn8bj6&dl=0" type="video/mp4">
+                      </video>
+
+                      <button class="sr-video-open" type="button" data-sr-video-open aria-label="Открыть видео">
+                        <span class="sr-video-play" aria-hidden="true"><svg viewBox="0 0 24 24" width="14" height="14" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M9 7.5v9l8-4.5-8-4.5Z" fill="currentColor"/></svg></span>
+                        <span class="sr-video-open-txt">смотреть</span>
+                      </button>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="sr-card sr-card-calendar">
+              <div class="sr-card-head">
+                <div class="sr-card-title">Календарь</div>
+                <button class="sr-mini-cal-add sr-mini-cal-add--head" type="button" data-sr-add-calendar-mini>Добавить в календарь</button>
+              </div>
+
+              <div class="sr-card-body">
+                <div class="sr-mini-cal">
+                  <div class="sr-mini-cal-top">
+                    <div class="sr-mini-cal-month">Февраль</div>
+                  </div>
+
+                  <div class="sr-mini-cal-week">
+                    <div>Пн</div><div>Вт</div><div>Ср</div><div>Чт</div><div>Пт</div><div>Сб</div><div>Вс</div>
+                  </div>
+
+                  <div class="sr-mini-cal-grid" aria-label="Мини-календарь февраль 2026">
+                    <div class="sr-mini-cal-day is-muted"></div>
+                    <div class="sr-mini-cal-day is-muted"></div>
+                    <div class="sr-mini-cal-day is-muted"></div>
+                    <div class="sr-mini-cal-day is-muted"></div>
+                    <div class="sr-mini-cal-day is-muted"></div>
+                    <div class="sr-mini-cal-day is-muted"></div>
+
+                    <div class="sr-mini-cal-day">1</div>
+                    <div class="sr-mini-cal-day">2</div>
+                    <div class="sr-mini-cal-day">3</div>
+                    <div class="sr-mini-cal-day">4</div>
+                    <div class="sr-mini-cal-day">5</div>
+                    <div class="sr-mini-cal-day">6</div>
+                    <div class="sr-mini-cal-day">7</div>
+
+                    <div class="sr-mini-cal-day">8</div>
+                    <div class="sr-mini-cal-day">9</div>
+                    <div class="sr-mini-cal-day">10</div>
+                    <div class="sr-mini-cal-day">11</div>
+                    <div class="sr-mini-cal-day">12</div>
+                    <div class="sr-mini-cal-day">13</div>
+                    <div class="sr-mini-cal-day">14</div>
+
+                    <div class="sr-mini-cal-day">15</div>
+                    <div class="sr-mini-cal-day">16</div>
+                    <div class="sr-mini-cal-day">17</div>
+                    <div class="sr-mini-cal-day">18</div>
+                    <div class="sr-mini-cal-day">19</div>
+                    <div class="sr-mini-cal-day">20</div>
+                    <div class="sr-mini-cal-day">21</div>
+
+                    <div class="sr-mini-cal-day">22</div>
+                    <div class="sr-mini-cal-day">23</div>
+                    <div class="sr-mini-cal-day">24</div>
+                    <div class="sr-mini-cal-day">25</div>
+                    <div class="sr-mini-cal-day">26</div>
+                    <div class="sr-mini-cal-day">27</div>
+                    <div class="sr-mini-cal-day is-active" aria-label="28 февраля 2026">28</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="sr-card sr-card-block5">
+              <div class="sr-card-head">
+                <div class="sr-card-title">Заполните форму и мы отправим вам приглашение на мероприятие</div>
+</div>
+              <div class="sr-card-body">
+                <form class="sr-contact-form" novalidate>
+<div class="sr-form-row sr-form-row-2">
+                    <div class="sr-field">
+                      <label class="sr-field-label" for="sr-email">Почта</label>
+                      <input id="sr-email" name="email" type="email" inputmode="email" autocomplete="email" placeholder="example@mail.ru" required>
+                      <div class="sr-field-error" aria-live="polite"></div>
+                    </div>
+
+                    <div class="sr-field">
+                      <label class="sr-field-label" for="sr-name">Имя</label>
+                      <input id="sr-name" name="name" type="text" autocomplete="name" placeholder="Ваше имя" required minlength="2">
+                      <div class="sr-field-error" aria-live="polite"></div>
+                    </div>
+                  </div>
+
+                  <div class="sr-form-row sr-form-row-phonebtn">
+                    <div class="sr-field">
+                      <label class="sr-field-label" for="sr-phone">Телефон</label>
+                      <input id="sr-phone" name="phone" type="tel" inputmode="tel" autocomplete="tel" placeholder="+7 (___) ___-__-__" required>
+                      <div class="sr-field-error" aria-live="polite"></div>
+                    </div>
+
+                    <div class="sr-field">
+                      <label class="sr-field-label sr-field-label--ghost" aria-hidden="true"> </label>
+                      <button class="sr-btn sr-btn-primary" type="submit">Зарегистрироваться</button>
+                      <div class="sr-field-error" aria-live="polite"></div>
+                    </div>
+                  </div>
+
+                  <label class="sr-policy">
+                    <input class="sr-policy-check" type="checkbox" name="policy" required checked>
+                    <span>Я даю согласие на обработку персональных данных в соответствии с <a class="sr-link" href="https://dod.open-college.ru/privacy-policy" target="_blank" rel="noopener">политикой конфиденциальности</a></span>
+                  </label>
+                </form>
+              </div>
+            </div>
+
+            <div class="sr-card sr-card-block4">
+              <div class="sr-card-head">
+                <div class="sr-card-title">Контакты</div>
+                <div class="sr-card-sub">Соцсети и мессенджеры</div>
+              </div>
+              <div class="sr-card-body">
+                <div class="sr-contacts-stack">
+
+                  <div class="sr-contacts-row">
+                    <div class="sr-contacts-title">Присоединяйтесь к нам</div>
+                    <div class="sr-social-row">
+                      <a class="sr-badge sr-badge-icon" href="https://vk.com/open_college" target="_blank" rel="noopener"><img src="https://static.tildacdn.com/tild3333-3339-4866-a436-373939636132/vk.svg" alt="VK"></a>
+                      <a class="sr-badge sr-badge-icon" href="https://t.me/open_college_official" target="_blank" rel="noopener"><img src="https://static.tildacdn.com/tild3463-3435-4564-b138-653937366232/tg.svg" alt="Telegram"></a>
+                    </div>
+                  </div>
+
+                  <div class="sr-contacts-row">
+                    <div class="sr-contacts-title">Написать нам</div>
+                    <div class="sr-social-row">
+                      <a class="sr-badge sr-badge-icon" href="https://t.me/open_college_official" target="_blank" rel="noopener"><img src="https://static.tildacdn.com/tild3463-3435-4564-b138-653937366232/tg.svg" alt="Telegram"></a>
+                      <a class="sr-badge sr-badge-icon" href="https://wa.me/74996507707" target="_blank" rel="noopener"><img src="https://static.tildacdn.com/tild3833-3864-4337-b139-383633396137/WhatsApp.svg" alt="WhatsApp"></a>
+                      <div class="sr-badge sr-badge-icon"><img src="https://static.tildacdn.com/tild6163-6166-4530-a136-656638663661/max.svg" alt="MAX"></div>
+                    </div>
+                  </div>
+
+                  <div class="sr-contacts-extra">
+                    <div class="sr-contacts-line"><span class="sr-contacts-label">E-mail:</span> <a class="sr-contacts-link" href="mailto:priem@open-college.ru">priem@open-college.ru</a></div>
+                    <div class="sr-contacts-line"><span class="sr-contacts-label">Телефон:</span> <a class="sr-contacts-link" href="tel:+74996507707">+7 (499) 650-77-07</a></div>
+                  </div>
+
+                </div>
+              </div>
+            </div>
+
+          </div>
+        </div>
+
+        <div class="sr-tab-pane" data-pane="tab2">
+          <div class="sr-grid sr-grid-1">
+            <div class="sr-card sr-card-xl2">
+              <div class="sr-card-head">
+                <div class="sr-card-title">Календарь</div>
+                <div class="sr-card-sub">Заглушка</div>
+              </div>
+              <div class="sr-card-body">
+                Здесь будет календарь (Tab 2).
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="sr-tab-pane" data-pane="tab3">
+          <div class="sr-grid sr-grid-1">
+            <div class="sr-card sr-card-xl2">
+              <div class="sr-card-head">
+                <div class="sr-card-title">Проекты</div>
+                <div class="sr-card-sub">Заглушка</div>
+              </div>
+              <div class="sr-card-body">
+                Здесь будет список проектов и статусов.
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="sr-tab-pane" data-pane="tab4">
+          <div class="sr-grid sr-grid-1">
+            <div class="sr-card sr-card-xl2">
+              <div class="sr-card-head">
+                <div class="sr-card-title">Настройки</div>
+                <div class="sr-card-sub">Заглушка</div>
+              </div>
+              <div class="sr-card-body">
+                Здесь будут настройки дашборда.
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </section>
+    </main>
+  </div>
+
+  <div class="sr-modal" aria-hidden="true" data-sr-modal>
+    <div class="sr-modal-backdrop" data-sr-modal-close></div>
+    <div class="sr-modal-card" role="dialog" aria-modal="true" aria-label="Видео День открытых дверей">
+      <button class="sr-modal-x" type="button" data-sr-modal-close aria-label="Закрыть">×</button>
+      <div class="sr-modal-body">
+        <video class="sr-modal-video" controls playsinline preload="metadata" data-sr-modal-video>
+          <source src="https://dl.dropboxusercontent.com/scl/fi/guqj09mt1d0e3hr4xzsnx/17.02.24.mp4?rlkey=4ovn6xekxu70tka4t5dnv8jsx&st=e7qn8bj6&dl=0" type="video/mp4">
+        </video>
+      </div>
+    </div>
+  </div>
+</div>
+
+<style>
+  :root{
+    --sr-bg-1:#f7f8fb;
+    --sr-bg-2:#eef1f7;
+    --sr-ink:#0e1116;
+    --sr-muted:#6b7280;
+    --sr-border:rgba(16,24,40,.10);
+    --sr-card:rgba(255,255,255,.72);
+    --sr-card2:rgba(255,255,255,.50);
+    --sr-shadow:0 14px 34px rgba(16,24,40,.08);
+    --sr-shadow2:0 10px 22px rgba(16,24,40,.06);
+    --sr-radius:16px;
+    --sr-radius2:14px;
+    --sr-gap:14px;
+    --sr-red:#E1110D;
+  }
+
+  .sr-dashboard{
+    font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+    color:var(--sr-ink);
+    background:
+      radial-gradient(1200px 600px at 10% -10%, rgba(0,0,0,.06), transparent 60%),
+      radial-gradient(900px 500px at 110% 20%, rgba(0,0,0,.05), transparent 55%),
+      linear-gradient(180deg, var(--sr-bg-1), var(--sr-bg-2));
+    border-radius: 20px;
+    padding: 14px;
+    box-sizing: border-box;
+  }
+
+  .sr-db-shell{
+    display:grid;
+    grid-template-columns: 270px 1fr;
+    gap: var(--sr-gap);
+    min-height: calc(100vh - 28px);
+    height: auto;
+  }
+
+  .sr-db-nav{
+    background: var(--sr-card2);
+    border:1px solid var(--sr-border);
+    box-shadow: var(--sr-shadow2);
+    border-radius: var(--sr-radius);
+    padding: 12px;
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    display:flex;
+    flex-direction: column;
+    gap: 10px;
+    min-height: 0;
+    overflow: hidden;
+  }
+
+  .sr-db-brand{
+    display:flex;
+    align-items:center;
+    gap: 10px;
+    padding: 4px 6px 10px;
+    border-bottom: 1px solid var(--sr-border);
+  }
+
+  .sr-db-dot{
+    width: 10px;
+    height: 10px;
+    border-radius: 999px;
+    background: #111;
+    box-shadow: 0 0 0 6px rgba(0,0,0,.08);
+    flex: 0 0 auto;
+  }
+
+  .sr-db-title{
+    font-weight: 800;
+    letter-spacing: .2px;
+    font-size: 14px;
+  }
+
+  .sr-db-nav-buttons{
+    display:flex;
+    flex-direction: column;
+    gap: 8px;
+    min-height: 0;
+    overflow: hidden;
+  }
+
+  .sr-tab-btn{
+    appearance:none;
+    border:1px solid transparent;
+    background: transparent;
+    width:100%;
+    text-align:left;
+    display:flex;
+    align-items:center;
+    gap: 10px;
+    padding: 10px 10px;
+    border-radius: 12px;
+    cursor:pointer;
+    color: var(--sr-ink);
+    transition: background .18s ease, transform .08s ease, border-color .18s ease;
+    box-sizing: border-box;
+    min-width: 0;
+  }
+
+  .sr-tab-btn:hover{ background: transparent; border-color: rgba(16,24,40,.25); }
+  .sr-tab-btn:active{ transform: translateY(1px); }
+
+  .sr-tab-btn.is-active{
+    background: transparent;
+    border-color: rgba(16,24,40,.18);
+    box-shadow: none;
+  }
+
+  .sr-tab-ico{
+    width: 26px;
+    height: 26px;
+    border-radius: 10px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    background: rgba(0,0,0,.05);
+    font-size: 14px;
+    flex: 0 0 auto;
+  }
+  .sr-tab-ico-img{
+    width: 18px;
+    height: 18px;
+    display:block;
+    object-fit: contain;
+  }
+
+
+  .sr-tab-txt{
+    font-weight: 650;
+    font-size: 13px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    min-width: 0;
+  }
+
+  .sr-db-nav-footer{
+    margin-top:auto;
+    padding-top: 10px;
+    border-top: 1px solid var(--sr-border);
+    font-size: 11px;
+    line-height: 1.35;
+    color: rgba(107,114,128,.75) !important;
+  }
+
+  .sr-db-nav-footer *{
+    color: inherit !important;
+  }
+
+  .sr-db-footer-wrap{
+    display:flex;
+    flex-direction:column;
+    gap:10px;
+    align-items:flex-start;
+  }
+
+  .sr-db-footer-top{
+    display:flex;
+    align-items:center;
+    gap:10px;
+  }
+
+  .sr-db-footer-logo{
+    height: 42px;
+    width: auto;
+    display:block;
+    opacity: .9;
+    flex: 0 0 auto;
+  }
+
+  .sr-db-footer-link{
+    font-size: 11px;
+    color: inherit !important;
+    text-decoration: none;
+    line-height: 1.1;
+    white-space: nowrap;
+    border-bottom: 1px solid transparent;
+    padding-bottom: 1px;
+    opacity: .95;
+  }
+
+  .sr-db-footer-link:hover{
+    border-bottom-color: rgba(107,114,128,.75);
+  }
+
+  .sr-db-footer-copy{
+    opacity: .95;
+  }
+
+  .sr-db-footer-table{
+    display:flex;
+    flex-direction:column;
+    gap: 2px;
+    opacity: .95;
+  }
+
+
+  .sr-db-hint{
+    font-size: 12px;
+    color: var(--sr-muted);
+    line-height: 1.35;
+  }
+
+  .sr-db-main{
+    display:flex;
+    flex-direction: column;
+    gap: 10px;
+    min-height: 0;
+  }
+
+  .sr-db-top{
+    display:flex;
+    align-items:center;
+    justify-content: space-between;
+    gap: 10px;
+    padding: 2px 4px;
+    flex: 0 0 auto;
+    flex-wrap: nowrap;
+  }
+
+  .sr-db-kicker{
+    color: var(--sr-muted);
+    font-size: 12px;
+    letter-spacing: .15px;
+    margin-bottom: 3px;
+  }
+
+  .sr-db-h1{
+    font-size: 20px;
+    font-weight: 820;
+    letter-spacing: .15px;
+    line-height: 1.1;
+  }
+
+  .sr-db-top-right{
+    display:flex;
+    align-items:center;
+    gap: 8px;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    flex: 0 0 auto;
+  }
+
+  
+  .sr-live-btn{
+    display:inline-flex;
+    align-items:center;
+    justify-content:center;
+    padding: 7px 10px;
+    border-radius: 999px;
+    background: var(--sr-red);
+    color: #ffffff !important;
+    font-weight: 650;
+    font-size: 12px;
+    text-decoration: none;
+    border: 1px solid var(--sr-border);
+    box-shadow: none;
+    line-height: 1;
+    white-space: nowrap;
+  }
+.sr-db-chip{
+    font-size: 12px;
+    color: rgba(0,0,0,.75);
+    background: rgba(255,255,255,.65);
+    border: 1px solid var(--sr-border);
+    padding: 7px 10px;
+    border-radius: 999px;
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    white-space: nowrap;
+    flex: 0 0 auto;
+    line-height: 1;
+  }
+
+
+  .sr-db-top-label{
+    font-size: 12px;
+    color: var(--sr-muted);
+    line-height: 1;
+    white-space: nowrap;
+    margin-right: 6px;
+    flex: 0 0 auto;
+  }
+
+  .sr-db-top-left{
+    display:flex;
+    align-items:center;
+    gap: 8px;
+    flex-wrap: wrap;
+    min-width: 0;
+    flex: 1 1 auto;
+  }
+  .sr-db-top-right{
+    display:flex;
+    align-items:center;
+    justify-content:flex-end;
+  }
+
+  .sr-db-content{
+    flex:1 1 auto;
+    min-height: 0;
+    overflow: auto;
+  }
+
+  .sr-tab-pane{ display:none; min-height: 0; }
+  .sr-tab-pane.is-active{ display:flex; flex-direction: column; gap: var(--sr-gap); min-height: 0; }
+
+  .sr-grid{
+    display:grid;
+    grid-template-columns: 2fr 1fr;
+    grid-template-areas:
+      "event cal"
+      "block5 block4";
+    gap: var(--sr-gap);
+    align-items: stretch;
+    grid-template-rows: minmax(0, 1.1fr) minmax(0, .9fr);
+    flex: 1 1 auto;
+    min-height: 0;
+  }
+
+  .sr-grid-1{
+    display:grid;
+    grid-template-columns: 1fr;
+    gap: var(--sr-gap);
+  }
+
+  .sr-card{
+    background: var(--sr-card);
+    border: 1px solid var(--sr-border);
+    border-radius: var(--sr-radius);
+    box-shadow: var(--sr-shadow);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    overflow:hidden;
+    min-height: 0;
+    display:flex;
+    flex-direction: column;
+  }
+
+  .sr-card-head{
+    display:flex;
+    align-items:flex-start;
+    justify-content: space-between;
+    gap: 10px;
+    padding: 12px 14px 10px;
+    border-bottom: 1px solid rgba(16,24,40,.06);
+  }
+
+  .sr-card-title{
+    font-weight: 820;
+    font-size: 15px;
+    letter-spacing: .15px;
+    line-height: 1.2;
+  }
+
+  .sr-card-sub{
+    font-size: 12px;
+    color: var(--sr-muted);
+    white-space: nowrap;
+    margin-top: 2px;
+  }
+
+  .sr-card-body{
+    padding: 12px 14px 14px;
+    flex: 1 1 auto;
+    min-height: 0;
+    overflow: auto;
+  }
+
+  .sr-card-event{ grid-area: event; }
+  .sr-card-calendar{ grid-area: cal; }
+  .sr-card-block5{ grid-area: block5; }
+  .sr-card-block4{ grid-area: block4; }
+
+  .sr-event-split{
+    display:grid;
+    grid-template-columns: 1.1fr .9fr;
+    gap: 14px;
+    align-items: start;
+  }
+
+  .sr-event-text{
+    color: rgba(0,0,0,.78);
+    line-height: 1.55;
+    font-size: 13px;
+    margin-bottom: 14px;
+    max-width: 520px;
+  }
+
+
+  .sr-event-title-lg{
+    font-size: 20px;
+    font-weight: 820;
+    margin-bottom: 10px;
+    line-height: 1.2;
+  }
+
+  .sr-event-badge{
+    display:inline-block;
+    background: #ffffff;
+    color: rgba(0,0,0,.90);
+    border: 1px solid #16a34a;
+    font-size: 12px;
+    font-weight: 700;
+    padding: 6px 10px;
+    border-radius: 999px;
+    margin-bottom: 14px;
+  }
+
+  .sr-event-date{
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 1.25;
+    margin: 0 0 14px 0;
+    color: rgba(0,0,0,.90);
+  }
+
+
+  .sr-addr-label{ font-weight: 760; }
+  .sr-addr-text{ font-weight: 400; }
+
+  .sr-event-addr{
+    font-weight: 760;
+    font-size: 13px;
+    color: rgba(0,0,0,.82);
+    margin-top: 2px;
+  }
+
+  .sr-video-wrap{
+    cursor: pointer;
+
+    position: relative;
+    border-radius: 14px;
+    overflow:hidden;
+    border:1px solid rgba(16,24,40,.10);
+    background: #e9ecf3;
+    box-shadow: 0 10px 20px rgba(16,24,40,.08);
+    height: 220px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+  }
+
+  .sr-video-preview{
+    width:100%;
+    height: 100%;
+    object-fit: cover;
+    display:block;
+    filter: saturate(.95) contrast(.96);
+  }
+
+  .sr-video-open{
+    position:absolute;
+    right: 10px;
+    bottom: 10px;
+    left: auto;
+    top: auto;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    gap: 8px;
+    padding: 8px 10px;
+    border-radius: 999px;
+    border: 1px solid rgba(255,255,255,.28);
+    background: rgba(0,0,0,.50);
+    color:#fff;
+    cursor:pointer;
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    width: auto;
+  }
+
+  .sr-video-open-txt{
+    font-weight: 650;
+    letter-spacing: .1px;
+    text-transform: lowercase;
+    font-size: 12px;
+  }
+
+  .sr-video-play{
+    display:inline-flex;
+    align-items:center;
+    justify-content:center;
+    color:#fff;
+    width: 16px;
+    height: 16px;
+    border-radius: 999px;
+  }
+
+  .sr-mini-cal-add{
+    appearance:none;
+    border: 1px solid rgba(16,24,40,.12);
+    background: rgba(0,0,0,.9);
+    color: #fff;
+    font-weight: 650;
+    font-size: 12px;
+    padding: 8px 10px;
+    border-radius: 999px;
+    cursor:pointer;
+    white-space: nowrap;
+  }
+
+  .sr-mini-cal{
+    border: 1px solid rgba(16,24,40,.08);
+    border-radius: 14px;
+    padding: 12px;
+    background: rgba(255,255,255,.55);
+  }
+
+  .sr-mini-cal-top{
+    display:flex;
+    align-items:center;
+    justify-content: space-between;
+    margin-bottom: 8px;
+  }
+
+  .sr-mini-cal-month{
+    font-weight: 820;
+    font-size: 13px;
+  }
+
+  .sr-mini-cal-week{
+    display:grid;
+    grid-template-columns: repeat(7, 1fr);
+    gap: 6px;
+    font-size: 11px;
+    color: var(--sr-muted);
+    margin-bottom: 8px;
+  }
+
+  .sr-mini-cal-grid{
+    display:grid;
+    grid-template-columns: repeat(7, 1fr);
+    gap: 8px;
+  }
+
+  .sr-mini-cal-day{
+    height: 32px;
+    border-radius: 12px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    font-weight: 650;
+    font-size: 12px;
+    border: 1px solid rgba(16,24,40,.08);
+    background: rgba(255,255,255,.72);
+  }
+
+  .sr-mini-cal-day.is-muted{
+    opacity: 0;
+    pointer-events:none;
+    border: none;
+    background: transparent;
+  }
+
+  .sr-mini-cal-day.is-active{
+    background: var(--sr-red);
+    color:#fff;
+    border-color: rgba(0,0,0,.05);
+  }
+
+  .sr-social-grid{
+    display:grid;
+    gap: 14px;
+  }
+
+  .sr-social-box{
+    padding: 12px;
+    border: 1px solid rgba(0,0,0,.06);
+    border-radius: 14px;
+    background: rgba(255,255,255,.55);
+  }
+
+  
+  .sr-contacts-split{
+    display:grid;
+    grid-template-columns: 1.25fr auto .75fr;
+    gap: 14px;
+    align-items: start;
+  }
+  .sr-contacts-col{ min-width: 0; }
+  
+  .sr-contacts-col--right{
+    padding-left: 6px;
+  }
+
+  .sr-contacts-divider{
+    width: 1px;
+    background: rgba(16,24,40,.12);
+    border-radius: 1px;
+    align-self: stretch;
+  }
+
+  
+  .sr-contacts-stack{
+    display:grid;
+    gap: 12px;
+  }
+  .sr-contacts-row{
+    display:flex;
+    align-items:center;
+    justify-content: space-between;
+    gap: 12px;
+  }
+  .sr-contacts-title{
+    font-size: 13px;
+    font-weight: 400;
+    color: rgba(0,0,0,.85);
+    white-space: nowrap;
+  }
+  .sr-contacts-link{
+    color: rgba(0,0,0,.85) !important;
+    text-decoration: none !important;
+  }
+  .sr-contacts-link:hover{
+    text-decoration: underline !important;
+    text-underline-offset: 3px;
+  }
+
+  .sr-contacts-extra{
+    margin-top: 12px;
+    display:grid;
+    gap: 6px;
+    font-size: 13px;
+    color: rgba(0,0,0,.78);
+  }
+  .sr-contacts-line{ line-height: 1.35; }
+
+  .sr-contacts-extra a{
+    color: rgba(0,0,0,.85);
+    text-decoration: none;
+  }
+  .sr-contacts-extra a:hover{
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+
+  .sr-contacts-label{ font-weight: 700; color: rgba(0,0,0,.85); }
+
+  .sr-social-title{
+    font-weight: 780;
+    font-size: 13px;
+    margin-bottom: 10px;
+  }
+
+  .sr-social-row{
+    display:flex;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+
+  .sr-badge{
+    padding: 0;
+}
+
+  .sr-badge-icon{
+    width: 42px;
+    height: 42px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+  }
+
+  .sr-badge-icon img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .sr-badge:not(.sr-badge-icon){
+    width: 36px;
+    height: 36px;
+    border-radius: 10px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    background: transparent;
+    border: none;
+    font-weight: 800;
+    font-size: 12px;
+    letter-spacing: .2px;
+  }
+
+  .sr-contact-form{ display:block; }
+
+  .sr-form-note{
+    font-size: 13px;
+    color: rgba(0,0,0,.7);
+    margin-bottom: 16px;
+  }
+
+  .sr-form-row{
+    display:grid;
+    gap: 8px;
+    margin-bottom: 6px;
+  }
+
+  .sr-form-row-2{
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .sr-form-row-phonebtn{
+    grid-template-columns: 1fr 1fr;
+    align-items: end;
+    margin-bottom: 4px;
+  }
+
+  .sr-field-label{
+    display:block;
+    font-size: 12px;
+    color: rgba(0,0,0,.65);
+    margin-bottom: 6px;
+  }
+
+  .sr-field-label--ghost{ visibility:hidden; }
+
+  .sr-contact-form input,
+  .sr-contact-form button{
+    width: 100%;
+    height: 42px;
+    padding: 11px 12px;
+    border-radius: 10px;
+    font-size: 13px;
+    box-sizing: border-box;
+    font-family: inherit;
+    line-height: 18px;
+  }
+
+  .sr-contact-form input{
+    border: 1px solid rgba(16,24,40,.12);
+    background: rgba(255,255,255,.75);
+    outline: none;
+  }
+
+  .sr-contact-form input:focus{
+    border-color: rgba(0,0,0,.30);
+    box-shadow: 0 0 0 3px rgba(0,0,0,.06);
+  }
+
+  .sr-btn{
+    appearance:none;
+    border: 1px solid rgba(0,0,0,.10);
+    cursor:pointer;
+    white-space: nowrap;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+  }
+
+  .sr-btn-primary{
+    background: var(--sr-red);
+    color:#fff;
+    font-weight: 720;
+  }
+
+  .sr-field-error{
+    font-size: 11px;
+    color: #b42318;
+    min-height: 12px;
+    margin-top: 6px;
+  }
+
+  .sr-policy{
+    display:flex;
+    align-items:center;
+    gap: 10px;
+    font-size: 12px;
+    color: rgba(0,0,0,.7);
+    margin-top: 8px;
+    user-select: none;
+  }
+
+  .sr-policy-check{
+    accent-color: var(--sr-red);
+
+    width: 16px !important;
+    height: 16px !important;
+    margin-top: 2px;
+    flex: 0 0 auto;
+  }
+
+  .sr-link{
+    color: rgba(0,0,0,.85);
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+
+  .sr-modal{
+    position: fixed;
+    inset: 0;
+    display:none;
+    z-index: 999999;
+  }
+  .sr-modal.is-open{ display:block; }
+
+  .sr-modal-backdrop{
+    position:absolute;
+    inset:0;
+    background: rgba(0,0,0,.55);
+    backdrop-filter: blur(6px);
+    -webkit-backdrop-filter: blur(6px);
+  }
+
+  .sr-modal-card{
+    position:absolute;
+    left:50%;
+    top:50%;
+    transform: translate(-50%, -50%);
+    width: min(980px, calc(100% - 28px));
+    border-radius: 18px;
+    background: rgba(255,255,255,.92);
+    border: 1px solid rgba(255,255,255,.28);
+    box-shadow: 0 24px 60px rgba(0,0,0,.35);
+    overflow:hidden;
+  }
+
+  .sr-modal-x{
+    position:absolute;
+    top: 8px;
+    right: 12px;
+    width: 36px;
+    height: 36px;
+    border-radius: 999px;
+    border: none;
+    background: rgba(255,255,255,.85);
+    cursor:pointer;
+    font-size: 22px;
+    line-height: 1;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+  }
+
+  .sr-modal-body{
+    padding: 62px 14px 14px;
+  }
+
+  .sr-modal-video{
+    width:100%;
+    border-radius: 14px;
+    border:1px solid rgba(16,24,40,.10);
+    background:#000;
+  }
+
+  @media (max-width: 980px){
+    .sr-db-shell{
+      grid-template-columns: 1fr;
+      height: auto;
+      max-height: none;
+    }
+
+    .sr-db-nav{
+      flex-direction: row;
+      align-items: stretch;
+      overflow: auto;
+    }
+
+    .sr-db-brand{ display:none; }
+    .sr-db-nav-footer{ display:none; }
+
+    .sr-db-nav-buttons{
+      flex-direction: row;
+      gap: 8px;
+    }
+
+    .sr-tab-btn{
+      width: auto;
+      min-width: 160px;
+    }
+
+    .sr-grid{
+      grid-template-columns: 1fr;
+      grid-template-areas:
+        "event"
+        "cal"
+        "block5"
+        "block4";
+      height: auto;
+    }
+
+    .sr-event-split{ grid-template-columns: 1fr; }
+    .sr-video-wrap{ height: 220px; }
+
+    .sr-form-row-2{ grid-template-columns: 1fr; }
+    .sr-form-row-phonebtn{ grid-template-columns: 1fr; }
+  }
+
+  /* скрываем тильдовскую форму, данные отправляем в неё программно */
+  #rec1884608321{ 
+    display:none !important;
+    visibility:hidden !important;
+    height:0 !important;
+    overflow:hidden !important;
+    pointer-events:none !important;
+  }
+
+
+
+.sr-tab-btn.is-active:hover,
+.sr-tab-btn.active:hover,
+.sr-db-tab-btn.is-active:hover,
+.sr-db-tab-btn.active:hover{
+  background: rgba(255,255,255,.12) !important;
+}
+
+
+/* ---- Tabs: active state background (no outline) ---- */
+/* More specific selector to win against earlier rules */
+.sr-db-tabs .sr-tab-btn.is-active,
+.sr-db-tabs .sr-tab-btn.active,
+.sr-db-tabs .sr-db-tab-btn.is-active,
+.sr-db-tabs .sr-db-tab-btn.active{
+  background-color: rgba(255,255,255,.12) !important; /* light grey */
+  border: 1px solid transparent !important;
+  box-shadow: none !important;
+}
+
+/* If your markup uses aria/current states, support them too */
+.sr-db-tabs .sr-tab-btn[aria-selected="true"],
+.sr-db-tabs .sr-tab-btn[aria-current="page"]{
+  background-color: rgba(255,255,255,.12) !important;
+  border: 1px solid transparent !important;
+  box-shadow: none !important;
+}
+
+/* Keep hover subtle, but do not reintroduce border highlight */
+.sr-db-tabs .sr-tab-btn.is-active:hover,
+.sr-db-tabs .sr-tab-btn.active:hover,
+.sr-db-tabs .sr-tab-btn[aria-selected="true"]:hover{
+  background-color: rgba(255,255,255,.14) !important;
+  border-color: transparent !important;
+}
+
+</style>
+
+<script>
+(function(){
+  var root = document.getElementById('sr-dashboard');
+  if(!root) return;
+
+
+  var TILDA_REC_SELECTOR = '#rec1884608321';
+
+  function fireInputEvents(el){
+    try {
+      el.dispatchEvent(new Event('input', { bubbles:true }));
+      el.dispatchEvent(new Event('change', { bubbles:true }));
+    } catch(e){}
+  }
+
+  function findTildaForm(){
+    var rec = document.querySelector(TILDA_REC_SELECTOR);
+    if(!rec) return null;
+    return rec.querySelector('form');
+  }
+
+  function findField(form, kind){
+    if(!form) return null;
+    var inputs = Array.prototype.slice.call(form.querySelectorAll('input, textarea'));
+    var byType = function(t){
+      return inputs.find(function(el){ return (el.getAttribute('type')||'').toLowerCase() === t; });
+    };
+    var byNameLike = function(keys){
+      keys = keys.map(function(k){ return k.toLowerCase(); });
+      return inputs.find(function(el){
+        var n = (el.getAttribute('name')||'').toLowerCase();
+        var p = (el.getAttribute('placeholder')||'').toLowerCase();
+        var a = (el.getAttribute('aria-label')||'').toLowerCase();
+        var id = (el.getAttribute('id')||'').toLowerCase();
+        var all = n + ' ' + p + ' ' + a + ' ' + id;
+        return keys.some(function(k){ return all.indexOf(k) !== -1; });
+      });
+    };
+
+    if(kind === 'email') return byType('email') || byNameLike(['email','e-mail','почта','mail']);
+    if(kind === 'phone') return byType('tel') || byNameLike(['phone','tel','телефон','mobile']);
+    if(kind === 'name')  return byType('text') || byNameLike(['name','имя','fio','фио']);
+    return null;
+  }
+
+  function submitTildaForm(payload){
+    var form = findTildaForm();
+    if(!form) return false;
+
+    var emailEl = findField(form, 'email');
+    var nameEl  = findField(form, 'name');
+    var phoneEl = findField(form, 'phone');
+
+    if(emailEl){ emailEl.value = payload.email || ''; fireInputEvents(emailEl); }
+    if(nameEl) { nameEl.value  = payload.name  || ''; fireInputEvents(nameEl);  }
+    if(phoneEl){ phoneEl.value = payload.phone || ''; fireInputEvents(phoneEl); }
+
+    // попытка отправки (Tilda обычно навешивает обработчики на submit)
+    try {
+      form.dispatchEvent(new Event('submit', { bubbles:true, cancelable:true }));
+    } catch(e){}
+
+    try {
+      var btn = form.querySelector('button[type="submit"], input[type="submit"]');
+      if(btn) btn.click();
+      else form.submit();
+    } catch(e){}
+
+    return true;
+  }
+
+  var tabButtons = root.querySelectorAll('.sr-tab-btn[data-tab]');
+  var panes = root.querySelectorAll('.sr-tab-pane[data-pane]');
+  var titleEl = root.querySelector('[data-sr-title]');
+
+  function setActive(tabId){
+    var liveLink = root.querySelector('[data-sr-live-link]');
+  if(liveLink){
+    liveLink.addEventListener('click', function(e){
+      var href = (liveLink.getAttribute('href') || '').trim();
+      if(!href || href === '#') e.preventDefault();
+    });
+  }
+
+  tabButtons.forEach(function(btn){
+      btn.classList.toggle('is-active', btn.getAttribute('data-tab') === tabId);
+    });
+    panes.forEach(function(p){
+      p.classList.toggle('is-active', p.getAttribute('data-pane') === tabId);
+    });
+    var activeBtn = root.querySelector('.sr-tab-btn.is-active .sr-tab-txt');
+    if(titleEl && activeBtn) titleEl.textContent = activeBtn.textContent;
+  }
+
+  tabButtons.forEach(function(btn){
+    btn.addEventListener('click', function(){
+      setActive(btn.getAttribute('data-tab'));
+    });
+  });
+
+  var modal = root.querySelector('[data-sr-modal]');
+  var modalVideo = root.querySelector('[data-sr-modal-video]');
+  var openBtn = root.querySelector('[data-sr-video-open]');
+  var closeBtns = root.querySelectorAll('[data-sr-modal-close]');
+
+  function openModal(){
+    if(!modal) return;
+    modal.classList.add('is-open');
+    modal.setAttribute('aria-hidden','false');
+    document.documentElement.style.overflow = 'hidden';
+    if(modalVideo){
+      try{ modalVideo.currentTime = 0; }catch(e){}
+      var p = modalVideo.play();
+      if(p && p.catch) p.catch(function(){});
+    }
+  }
+
+  function closeModal(){
+    if(!modal) return;
+    modal.classList.remove('is-open');
+    modal.setAttribute('aria-hidden','true');
+    document.documentElement.style.overflow = '';
+    if(modalVideo){
+      modalVideo.pause();
+      try{ modalVideo.currentTime = 0; }catch(e){}
+    }
+  }
+
+  if(openBtn) openBtn.addEventListener('click', openModal);
+  var videoWrap = root.querySelector('[data-sr-video-wrap]');
+  if(videoWrap){
+    videoWrap.addEventListener('click', function(e){
+      var t = e.target;
+      if(t && (t.closest('[data-sr-video-open]'))) return;
+      openModal();
+    });
+  }
+  closeBtns.forEach(function(b){ b.addEventListener('click', closeModal); });
+
+  document.addEventListener('keydown', function(e){
+    if(e.key === 'Escape') closeModal();
+  });
+
+  function pad2(n){ return String(n).padStart(2,'0'); }
+  function formatICSLocal(dt){
+    return (
+      dt.getFullYear() +
+      pad2(dt.getMonth()+1) +
+      pad2(dt.getDate()) + 'T' +
+      pad2(dt.getHours()) +
+      pad2(dt.getMinutes()) +
+      pad2(dt.getSeconds())
+    );
+  }
+
+  function buildICS(opts){
+    var uid = 'sr-dod-' + Date.now() + '@open-college';
+    var now = new Date();
+    var lines = [
+      'BEGIN:VCALENDAR',
+      'VERSION:2.0',
+      'PRODID:-//Open College//SR Dashboard//RU',
+      'CALSCALE:GREGORIAN',
+      'METHOD:PUBLISH',
+      'BEGIN:VEVENT',
+      'UID:' + uid,
+      'DTSTAMP:' + formatICSLocal(now),
+      'DTSTART:' + formatICSLocal(opts.start),
+      'DTEND:' + formatICSLocal(opts.end),
+      'SUMMARY:' + opts.summary,
+      'DESCRIPTION:' + (opts.description || ''),
+      'LOCATION:' + (opts.location || ''),
+      'END:VEVENT',
+      'END:VCALENDAR'
+    ];
+    return lines.join('\r\n');
+  }
+
+  function downloadText(filename, text){
+    var blob = new Blob([text], {type:'text/calendar;charset=utf-8'});
+    var url = URL.createObjectURL(blob);
+    var a = document.createElement('a');
+    a.href = url;
+    a.download = filename;
+    document.body.appendChild(a);
+    a.click();
+    a.remove();
+    setTimeout(function(){ URL.revokeObjectURL(url); }, 1000);
+  }
+
+  function getActiveMiniDate(){
+    var active = root.querySelector('.sr-mini-cal-day.is-active');
+    if(!active) return null;
+    var day = parseInt(active.textContent, 10);
+    if(!day) return null;
+    return { year: 2026, month: 2, day: day };
+  }
+
+  function addToCalendarFromMini(){
+    var d = getActiveMiniDate();
+    if(!d) return;
+    var start = new Date(d.year, d.month-1, d.day, 12, 0, 0);
+    var end = new Date(d.year, d.month-1, d.day, 14, 0, 0);
+
+    var ics = buildICS({
+      start: start,
+      end: end,
+      summary: 'День открытых дверей — МГОК',
+      description: 'День открытых дверей. Запись через сайт.',
+      location: 'Волгоградский проспект, дом 32, корпус 5'
+    });
+
+    downloadText('DOD_MGOK_' + d.year + '-' + pad2(d.month) + '-' + pad2(d.day) + '.ics', ics);
+  }
+
+  var addMiniBtn = root.querySelector('[data-sr-add-calendar-mini]');
+  var addBigBtn = root.querySelector('[data-sr-add-calendar]');
+  if(addMiniBtn) addMiniBtn.addEventListener('click', addToCalendarFromMini);
+  if(addBigBtn) addBigBtn.addEventListener('click', addToCalendarFromMini);
+
+  function maskPhone(value){
+    var digits = (value || '').replace(/\D/g,'');
+    if(digits.startsWith('8')) digits = '7' + digits.slice(1);
+    if(!digits.startsWith('7')) digits = '7' + digits;
+    digits = digits.slice(0,11);
+
+    var p1 = digits.slice(1,4);
+    var p2 = digits.slice(4,7);
+    var p3 = digits.slice(7,9);
+    var p4 = digits.slice(9,11);
+
+    var out = '+7';
+    if(p1) out += ' (' + p1;
+    if(p1 && p1.length === 3) out += ')';
+    if(p2) out += ' ' + p2;
+    if(p3) out += '-' + p3;
+    if(p4) out += '-' + p4;
+    return out;
+  }
+
+  var form = root.querySelector('.sr-contact-form');
+  if(form){
+    var email = form.querySelector('#sr-email');
+    var name = form.querySelector('#sr-name');
+    var phone = form.querySelector('#sr-phone');
+    var policy = form.querySelector('.sr-policy-check');
+
+    function setErr(input, msg){
+      var wrap = input.closest('.sr-field');
+      if(!wrap) return;
+      var err = wrap.querySelector('.sr-field-error');
+      if(err) err.textContent = msg || '';
+      input.setAttribute('aria-invalid', msg ? 'true' : 'false');
+    }
+
+    function validateEmail(v){
+      v = (v || '').trim();
+      if(!v) return 'Введите почту';
+      var ok = /^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(v);
+      if(!ok) return 'Некорректная почта';
+      return '';
+    }
+
+    function validateName(v){
+      v = (v || '').trim();
+      if(!v) return 'Введите имя';
+      if(v.length < 2) return 'Минимум 2 символа';
+      return '';
+    }
+
+    function validatePhone(v){
+      var digits = (v || '').replace(/\D/g,'');
+      if(!digits) return 'Введите телефон';
+      if(digits.length !== 11) return 'Некорректный телефон';
+      if(!digits.startsWith('7')) return 'Телефон должен начинаться с +7';
+      return '';
+    }
+
+    function validatePolicy(){
+      if(!policy.checked) return 'Нужно согласие';
+      return '';
+    }
+
+    if(phone){
+      phone.addEventListener('input', function(){
+        phone.value = maskPhone(phone.value);
+      });
+    }
+
+    form.addEventListener('submit', function(e){
+      e.preventDefault();
+
+      var e1 = validateEmail(email.value);
+      var e2 = validateName(name.value);
+      var e3 = validatePhone(phone.value);
+
+      setErr(email, e1);
+      setErr(name, e2);
+      setErr(phone, e3);
+
+      var policyMsg = validatePolicy();
+      var policyErrHost = form.querySelector('.sr-form-row-phonebtn .sr-field:last-child .sr-field-error');
+      if(policyErrHost) policyErrHost.textContent = policyMsg || '';
+
+      if(e1 || e2 || e3 || policyMsg) return;
+
+      submitTildaForm({
+        email: (email.value || '').trim(),
+        name: (name.value || '').trim(),
+        phone: (phone.value || '').trim()
+      });
+
+      form.reset();
+      setErr(email,''); setErr(name,''); setErr(phone,'');
+      if(policyErrHost) policyErrHost.textContent = '';
+});
+  }
+})();
+</script>
